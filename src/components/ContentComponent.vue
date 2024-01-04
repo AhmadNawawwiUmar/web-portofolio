@@ -368,6 +368,7 @@ import ModalComponent4 from "./ModalComponent4.vue";
                     name="name"
                     class="bg-gray-50 border border-gray-300 text-gray-900 text-sm rounded-lg focus:ring-blue-500 focus:border-blue-500 block w-full pl-10 p-2.5 dark:bg-gray-700 dark:border-gray-600 dark:placeholder-gray-400 dark:text-white dark:focus:ring-blue-500 dark:focus:border-blue-500"
                     placeholder="Your name here"
+                    autocomplete="off"
                   />
                 </div>
 
@@ -403,6 +404,7 @@ import ModalComponent4 from "./ModalComponent4.vue";
                     name="email"
                     class="bg-gray-50 border border-gray-300 text-gray-900 text-sm rounded-lg focus:ring-blue-500 focus:border-blue-500 block w-full pl-10 p-2.5 dark:bg-gray-700 dark:border-gray-600 dark:placeholder-gray-400 dark:text-white dark:focus:ring-blue-500 dark:focus:border-blue-500"
                     placeholder="Your Email Here"
+                    autocomplete="off"
                   />
                 </div>
 
@@ -421,6 +423,7 @@ import ModalComponent4 from "./ModalComponent4.vue";
                   rows="4"
                   class="block p-2.5 w-full text-sm text-gray-900 bg-gray-50 rounded-lg border border-gray-300 focus:ring-blue-500 focus:border-blue-500 dark:bg-gray-700 dark:border-gray-600 dark:placeholder-gray-400 dark:text-white dark:focus:ring-blue-500 dark:focus:border-blue-500"
                   placeholder="Leave the message here "
+                  autocomplete="off"
                 ></textarea>
 
                 <br />
