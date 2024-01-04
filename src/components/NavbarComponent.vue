@@ -9,7 +9,8 @@
 				
 				<br>
 				
-				<p class="text-sm md:text-base text-justify text-black-50 mb-4">Seorang pemuda yang baik hati dan tidak sombong, gemar melakukan kebaikan dan suka menolong orang.</p>
+				<p class="text-sm md:text-base text-justify text-black-50 mb-4">
+A young software developer based in Bandung, driven by a deep passion for the dynamic realm of Information Technology (IT).</p>
 			
 			</div>
 			<div class="p-8 mt-12 mb-6 md:mb-0 md:mt-0 ml-0 md:ml-12 lg:w-2/3  justify-center">
